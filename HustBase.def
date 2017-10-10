@@ -1,0 +1,9 @@
+LIBRARY
+
+EXPORTS
+	CreateDB @1
+	OpenDB @2
+	DropDB @3
+	CloseDB @4
+	execute @5
+	GetRec @7
